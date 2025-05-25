@@ -97,12 +97,6 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.6658274903576231,
-          "pitch": -0.9047050386127111,
-          "title": "DC Fan",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
-        },
-        {
           "yaw": 1.992869166709852,
           "pitch": -0.15600395567148695,
           "title": "HVAC - Mini Split in Wall",
@@ -129,8 +123,8 @@ var APP_DATA = {
         {
           "yaw": -2.6909335015833573,
           "pitch": -0.0077950057258391325,
-          "title": "Backlit Remove Spline",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "BACKLIT REMOVABLE LINER",
+          "text": "<a href='https://placehold.co/' target='_blank'>Secured with spline in keder track. Click here to learn more!</a>"
         }
       ],
       "relaxHotspots": [
@@ -235,6 +229,12 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": [
+        {
+          "yaw": 1.2,
+          "pitch": -0.455,
+          "title": "DC Fan",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+        },
         {
           "yaw": 0.803296708697177,
           "pitch": 0.07336526452516523,
