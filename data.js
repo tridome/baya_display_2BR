@@ -32,7 +32,7 @@ var APP_DATA = {
         {
           "yaw": 1.6058937254262018,
           "pitch": -0,
-          "rotation": 0,
+          "rotation": 0.2,
           "target": "1-2br_bedroom"
         }
       ],
