@@ -94,10 +94,12 @@
     });
 
     // Create info hotspots.
-    data.infoHotspots.forEach(function(hotspot) {
-      var element = createInfoHotspotElement(hotspot);
-      scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
-    });
+    if (data.infoHotspots && Array.isArray(data.infoHotspots)) {
+      data.infoHotspots.forEach(function(hotspot) {
+        var element = createInfoHotspotElement(hotspot);
+        scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
+      });
+    }
 
     // Create build hotspots with safety check.
     if (data.buildHotspots && Array.isArray(data.buildHotspots)) {
