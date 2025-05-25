@@ -129,7 +129,7 @@ var APP_DATA = {
         {
           "yaw": -2.6909335015833573,
           "pitch": -0.0077950057258391325,
-          "title": "12",
+          "title": "Backlit Remove Spline",
           "text": "12"
         }
       ],
@@ -238,26 +238,26 @@ var APP_DATA = {
         {
           "yaw": 0.803296708697177,
           "pitch": 0.07336526452516523,
-          "title": "one",
-          "text": "one"
+          "title": "Closet",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 1.7936297594290824,
           "pitch": 0.33062284643479245,
-          "title": "three",
-          "text": "three"
+          "title": "Induction Cooktop",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 2.2084050254018646,
           "pitch": 0.3076112993668332,
-          "title": "four",
-          "text": "four"
+          "title": "Sink & Faucet",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 2.1233544563276414,
           "pitch": 0.6229446011997872,
-          "title": "five",
-          "text": "five"
+          "title": "DC Fridge",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         }
       ],
       "relaxHotspots": [
@@ -323,31 +323,31 @@ var APP_DATA = {
         {
           "yaw": 2.228193903228549,
           "pitch": -0.817292033806222,
-          "title": "two",
-          "text": "two"
+          "title": "DC vent fan",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 1.0961883193532653,
           "pitch": 0.5247919565184489,
-          "title": "three",
-          "text": "three"
+          "title": "Wall-Hung, Euro Style Toilet",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 0.6932500092413196,
           "pitch": 0.9186029295414784,
-          "title": "four",
-          "text": "four"
+          "title": "Waterproof Floor",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 2.119217555572762,
           "pitch": 0.2328490163156225,
-          "title": "five",
-          "text": "five"
+          "title": "Rainstick",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 1.5671594836756935,
           "pitch": 0.3741876808886637,
-          "title": "six",
+          "title": "Wall-Mount Faucet & Stone Sink",
           "text": "six"
         }
       ],
