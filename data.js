@@ -130,7 +130,7 @@ var APP_DATA = {
           "yaw": -2.6909335015833573,
           "pitch": -0.0077950057258391325,
           "title": "Backlit Remove Spline",
-          "text": "12"
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         }
       ],
       "relaxHotspots": [
