@@ -99,32 +99,32 @@ var APP_DATA = {
         {
           "yaw": 1.6658274903576231,
           "pitch": -0.9047050386127111,
-          "title": "one",
-          "text": "one"
+          "title": "DC Fan",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 1.992869166709852,
           "pitch": -0.15600395567148695,
-          "title": "three",
-          "text": "three"
+          "title": "HVAC - Mini Split in Wall",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": 1.8644580851315116,
           "pitch": 0.1957580702320456,
-          "title": "five",
-          "text": "five"
+          "title": "Lumencache DC Lighting",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": -3.016317406802351,
           "pitch": 0.39347845925094305,
-          "title": "seven",
-          "text": "seven"
+          "title": "Optional Seating",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": -1.7495384813386714,
           "pitch": 0.33679870522696476,
-          "title": "10",
-          "text": "10"
+          "title": "Deck",
+          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
         },
         {
           "yaw": -2.6909335015833573,
