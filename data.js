@@ -40,16 +40,16 @@ var APP_DATA = {
         {
           "yaw": 1.8500307432199667,
           "pitch": -0.10812411992276694,
-          "title": "?",
-          "text": "?"
+          "title": "Cedar Exterior",
+          "text": "Natural cedar shake cladding wraps the exterior in texture and resilience, blending with the tropical canopy."
         }
       ],
       "relaxHotspots": [
         {
           "yaw": 1.6220802239477727,
           "pitch": 0.38003904377425,
-          "title": "Entry",
-          "text": "Even before you step inside, the space asks you to slow down."
+          "title": "Inviting you In",
+          "text": "An intentional threshold, open yet defined. Welcoming you into the quiet rhythm of the Mangrove stay."
         }
       ]
     },
@@ -97,34 +97,40 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
+          "yaw": 1.2,
+          "pitch": -0.455,
+          "title": "DC Fan",
+          "text": "Low-voltage DC fan provides consistent, quiet air circulation with minimal energy use."
+        },
+        {
           "yaw": 1.992869166709852,
           "pitch": -0.15600395567148695,
-          "title": "HVAC - Mini Split in Wall",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Heating & Cooling",
+          "text": "Mini-split HVAC system provides quiet, responsive comfort across seasons and climate conditions."
         },
         {
           "yaw": 1.8644580851315116,
           "pitch": 0.1957580702320456,
-          "title": "Lumencache DC Lighting",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Integrated Lighting",
+          "text": "DC-powered LumenCache lighting delivers smart, low-voltage illumination tuned to the rhythm of the space. <br><br><a href='https://www.lumencache.com/' target='_blank'>Click here to learn more about LumenCache</a>"
         },
         {
           "yaw": -3.016317406802351,
           "pitch": 0.39347845925094305,
-          "title": "Optional Seating",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Convertible Lounge",
+          "text": "Multi-purpose seating that transitions seamlessly into a sleeping space — built for adaptability without sacrificing comfort."
         },
         {
           "yaw": -1.7495384813386714,
           "pitch": 0.33679870522696476,
-          "title": "Deck",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Front Deck",
+          "text": "A grounded platform of pressure-treated wood creates an easy, elevated connection to the surrounding landscape."
         },
         {
           "yaw": -2.6909335015833573,
           "pitch": -0.0077950057258391325,
-          "title": "BACKLIT REMOVABLE LINER",
-          "text": "<a href='https://placehold.co/' target='_blank'>Secured with spline in keder track. Click here to learn more!</a>"
+          "title": "Backlit Fabric Panel",
+          "text": "Layered LED lighting brings the structure to life with a soft, evening-ready glow."
         }
       ],
       "relaxHotspots": [
@@ -151,38 +157,38 @@ var APP_DATA = {
         {
           "yaw": 1.0596966950695226,
           "pitch": 0.077811332266986,
-          "title": "two",
-          "text": "two"
+          "title": "MicroCLT Wall Partition",
+          "text": "Precision-built MicroCLT panels define interior zones with structural integrity and a clean, natural finish."
         },
         {
           "yaw": 1.5667581144151823,
           "pitch": 0.5357631327594312,
-          "title": "four",
-          "text": "four"
+          "title": "Floor System",
+          "text": "MicroCLT panels support the space with strength and subtlety, finished to highlight the natural beauty of timber."
         },
         {
           "yaw": 0.7801957163597191,
           "pitch": -0.27136861296826176,
-          "title": "six",
-          "text": "six"
+          "title": "Breathable Canvas",
+          "text": "A tensioned architectural membrane that allows the structure to breathe while offering protection and softness."
         },
         {
           "yaw": -1.0803435225536404,
           "pitch": 0.1719847644100838,
-          "title": "11",
-          "text": "11"
+          "title": "Glass Wall & Door",
+          "text": "Impact-resistant polycarbonate glazing forms the front elevation, striking a balance between security and uninterrupted outdoor views."
         },
         {
           "yaw": -2.211703895481625,
           "pitch": -0.22876260564917317,
-          "title": "8",
-          "text": "8"
+          "title": "Glulam Structure",
+          "text": "Curved glulam beams give form and strength to the architecture, shaping the roofline and holding the glass in place."
         },
         {
           "yaw": -1.5672107062376188,
           "pitch": -0.3512932177212793,
-          "title": "9",
-          "text": "9"
+          "title": "Canopy & Frame",
+          "text": "A sweeping glulam canopy shades the entry deck, offering protection and sculptural presence."
         }
       ]
     },
@@ -233,31 +239,31 @@ var APP_DATA = {
           "yaw": 1.2,
           "pitch": -0.455,
           "title": "DC Fan",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "text": "Low-voltage DC fan provides consistent, quiet air circulation with minimal energy use."
         },
         {
           "yaw": 0.803296708697177,
           "pitch": 0.07336526452516523,
-          "title": "Closet",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Storage Closet",
+          "text": "Concealed storage is designed to keep belongings tucked away, supporting a clutter-free interior."
         },
         {
           "yaw": 1.7936297594290824,
           "pitch": 0.33062284643479245,
           "title": "Induction Cooktop",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "text": "Efficient, low-profile induction cooktop offers precise heat control with a clean, modern look."
         },
         {
           "yaw": 2.2084050254018646,
           "pitch": 0.3076112993668332,
           "title": "Sink & Faucet",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "text": "A streamlined sink and minimalist faucet combine function and form for a clean, modern kitchen experience."
         },
         {
           "yaw": 2.1233544563276414,
           "pitch": 0.6229446011997872,
           "title": "DC Fridge",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "text": "Compact, energy-efficient DC refrigerator designed for quiet operation and off-grid compatibility."
         }
       ],
       "relaxHotspots": [
@@ -278,8 +284,8 @@ var APP_DATA = {
         {
           "yaw": 1.394368313586627,
           "pitch": 0.3939170707184214,
-          "title": "two",
-          "text": "two"
+          "title": "MicroCLT Countertop",
+          "text": "Solid timber MicroCLT provides a durable, minimalist surface with the warmth and character of natural wood."
         }
       ]
     },
@@ -323,40 +329,40 @@ var APP_DATA = {
         {
           "yaw": 2.228193903228549,
           "pitch": -0.817292033806222,
-          "title": "DC vent fan",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Vent Fan",
+          "text": "Quiet DC-powered exhaust fan ensures steady air circulation and moisture control."
         },
         {
           "yaw": 1.0961883193532653,
           "pitch": 0.5247919565184489,
-          "title": "Wall-Hung, Euro Style Toilet",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Toilet Feature",
+          "text": "European-style wall-hung toilet for a modern, minimal footprint with easy cleaning access"
         },
         {
           "yaw": 0.6932500092413196,
           "pitch": 0.9186029295414784,
-          "title": "Waterproof Floor",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Waterproof Surface",
+          "text": "High-durability MicroCLT floor panels are sealed with a protective waterproof finish throughout the bath zone."
         },
         {
           "yaw": 2.119217555572762,
           "pitch": 0.2328490163156225,
-          "title": "Rainstick",
-          "text": "<a href='https://placehold.co/' target='_blank'>Click here to learn more!</a>"
+          "title": "Shower Experience",
+          "text": "Rainstick head and full enclosure transform a daily routine into a calming, sensory retreat. <br><br><a href='https://rainstickshower.com/' target='_blank'>Click here to see RainStick</a>"
         },
         {
           "yaw": 1.5671594836756935,
           "pitch": 0.3741876808886637,
-          "title": "Wall-Mount Faucet & Stone Sink",
-          "text": "six"
+          "title": "Bathroom Sink & Faucet",
+          "text": "Floating sink and wall-mount faucet provide function and finesse, adding visual lightness to the bathroom space."
         }
       ],
       "buildHotspots": [
         {
           "yaw": 0.3684116448366126,
           "pitch": 0.030082333104420655,
-          "title": "one",
-          "text": "one"
+          "title": "Moisture-Resistant Walls",
+          "text": "PVC-lined bathroom membrane provides a clean, sealed surface for humid conditions."
         }
       ]
     }
