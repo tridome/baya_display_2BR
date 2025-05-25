@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-2br_front",
-      "name": "2BR_FRONT",
+      "id": "0-front",
+      "name": "Front",
       "levels": [
         {
           "tileSize": 256,
@@ -30,10 +30,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.6058937254262018,
-          "pitch": -0,
-          "rotation": -0.10812411992276694,
-          "target": "1-2br_bedroom"
+          "yaw": 1.5919363316350026,
+          "pitch": 0.05139019384828991,
+          "rotation": 0,
+          "target": "1-bedroom"
         }
       ],
       "infoHotspots": [
@@ -42,20 +42,18 @@ var APP_DATA = {
           "pitch": -0.10812411992276694,
           "title": "?",
           "text": "?"
-        }
-      ],
-       "relaxHotspots": [
+        },
         {
           "yaw": 1.6220802239477727,
           "pitch": 0.38003904377425,
-          "title": "relaxing",
-          "text": "relax"
+          "title": "relax8",
+          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">relax8</span>"
         }
       ]
     },
     {
-      "id": "1-2br_bedroom",
-      "name": "2BR_BEDROOM",
+      "id": "1-bedroom",
+      "name": "Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -83,16 +81,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.5484085143097808,
-          "pitch": 0.20338472660645124,
+          "yaw": 1.5432319281281863,
+          "pitch": 0.03529326983654535,
           "rotation": 0,
-          "target": "2-2br_kitchen"
+          "target": "2-kitchen"
         },
         {
           "yaw": -1.5402257851530656,
-          "pitch": 0.023630431167056543,
+          "pitch": 0.09568865269226556,
           "rotation": 0,
-          "target": "0-2br_front"
+          "target": "0-front"
         }
       ],
       "infoHotspots": [
@@ -103,8 +101,8 @@ var APP_DATA = {
           "text": "one"
         },
         {
-          "yaw": 1.1722522949229823,
-          "pitch": 0.023630431167056543,
+          "yaw": 1.0596966950695226,
+          "pitch": 0.077811332266986,
           "title": "two",
           "text": "two"
         },
@@ -121,8 +119,8 @@ var APP_DATA = {
           "text": "four"
         },
         {
-          "yaw": 1.8516185964291632,
-          "pitch": 0.16520687125863276,
+          "yaw": 1.8644580851315116,
+          "pitch": 0.1957580702320456,
           "title": "five",
           "text": "five"
         },
@@ -189,8 +187,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-2br_kitchen",
-      "name": "2BR_KITCHEN",
+      "id": "2-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -221,13 +219,13 @@ var APP_DATA = {
           "yaw": 0.03206467074737418,
           "pitch": 0.24800703343447417,
           "rotation": 0,
-          "target": "3-2-br-bath"
+          "target": "3-bathroom"
         },
         {
-          "yaw": 1.1192229620316851,
-          "pitch": 0.2539248394400744,
+          "yaw": 1.1164028864744484,
+          "pitch": 0.2379002127244565,
           "rotation": 0,
-          "target": "1-2br_bedroom"
+          "target": "1-bedroom"
         }
       ],
       "infoHotspots": [
@@ -282,8 +280,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-2-br-bath",
-      "name": "2 BR-BATH",
+      "id": "3-bathroom",
+      "name": "Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -314,7 +312,7 @@ var APP_DATA = {
           "yaw": 2.959874524422263,
           "pitch": 0.34066115950417597,
           "rotation": 0,
-          "target": "2-2br_kitchen"
+          "target": "2-kitchen"
         }
       ],
       "infoHotspots": [
