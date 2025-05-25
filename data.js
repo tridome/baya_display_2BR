@@ -42,12 +42,14 @@ var APP_DATA = {
           "pitch": -0.10812411992276694,
           "title": "?",
           "text": "?"
-        },
+        }
+      ],
+       "relaxHotspots": [
         {
           "yaw": 1.6220802239477727,
           "pitch": 0.38003904377425,
-          "title": "relax8",
-          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">relax8</span>"
+          "title": "relaxing",
+          "text": "relax"
         }
       ]
     },
